@@ -379,14 +379,6 @@ private const val BASE_URL =
                                                                                                                                                                                             fontWeight = FontWeight.Bold,
                                                                                                                                                                                                         fontSize = 11.sp,
                                                                                                                                                                                                                     color = Color(0xFF65758B)
-                                                                                                                                                                )
-                                                            }
-    }
-    
-                                                                                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                }
-                                        )
-                                                }
-                                }
-            }
-    }
+                                                                                                                                                                )    
+                                                                                                                                                                  }
+                                                                                                                                                                     }
